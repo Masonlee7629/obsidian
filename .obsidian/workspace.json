@@ -11,8 +11,12 @@
             "id": "625bcc8e64b5f203",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Reference/러닝데이 강연.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Reference/러닝데이 강연.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Reference/러닝데이 강연.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Reference/러닝데이 강연.md"
+              }
             }
           },
           {
@@ -156,8 +164,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c584ed357e1a46d5",
+  "active": "4fe4d6a1d4667323",
   "lastOpenFiles": [
+    "새 텍스트 문서.txt",
+    "Reference/실무코드 1.md",
+    "Reference/실무코드 2.md",
+    "Reference/러닝데이 강연.md",
     "blog/정보처리기사/애플리케이션 설계 5.md",
     "blog/정보처리기사/소프트웨어 종류 및 개발 방법론 7.md",
     "blog/정보처리기사/데이터 입출력 구현 3.md",
@@ -166,7 +178,6 @@
     "blog/정보처리기사/소프트웨어 종류 및 개발 방법론 8.md",
     "blog/정보처리기사/소프트웨어 종류 및 개발 방법론 3.md",
     "blog/정보처리기사/데이터 입출력 구현 2.md",
-    "2023-05-10.md",
     "무제 파일.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
@@ -183,9 +194,6 @@
     "blog/Java/Java 객체지향 프로그래밍 심화 - 1.md",
     "blog/Java/Java 객체지향 프로그래밍 기초 - 2.md",
     "blog/Java/Java 객체지향 프로그래밍 기초 - 1.md",
-    "blog/Java/Java 기초 - 5.md",
-    "blog/Java/Java 기초 - 4.md",
-    "blog/Java/Java 기초 - 3.md",
     "blog/Java",
     "blog/Project/QnA",
     "blog/Project",
