@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "86d4bfb6f78779ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "b141e950532a4651",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "625bcc8e64b5f203",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07f9dc19e131b121",
+    "type": "split",
+    "children": [
+      {
+        "id": "7497c060e1c06c5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fe4d6a1d4667323",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8fa18d4c092d5ee7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#는",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a54c23a5f5c185de",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 356.5
+  },
+  "right": {
+    "id": "6aca77a91e777679",
+    "type": "split",
+    "children": [
+      {
+        "id": "fae33697c16c677c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c606a41161419b19",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c584ed357e1a46d5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a700fce93f648073",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ea66239cd00b568",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "d61a58de41f1b46b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4a0927567d422fde",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "c584ed357e1a46d5",
+  "lastOpenFiles": [
+    "blog/정보처리기사/애플리케이션 설계 5.md",
+    "blog/정보처리기사/소프트웨어 종류 및 개발 방법론 7.md",
+    "blog/정보처리기사/데이터 입출력 구현 3.md",
+    "blog/정보처리기사/데이터 입출력 구현 1.md",
+    "blog/정보처리기사/데이터 입출력 구현 4.md",
+    "blog/정보처리기사/소프트웨어 종류 및 개발 방법론 8.md",
+    "blog/정보처리기사/소프트웨어 종류 및 개발 방법론 3.md",
+    "blog/정보처리기사/데이터 입출력 구현 2.md",
+    "2023-05-10.md",
+    "무제 파일.md",
+    "무제 파일 1.canvas",
+    "무제 파일.canvas",
+    "blog/Java/Java 심화 - 5.md",
+    "blog/Java/Java 심화 - 6.md",
+    "blog/Java/Java 심화 - 4.md",
+    "blog/Java/Java 심화 - 3.md",
+    "blog/Java/Java 심화 - 2.md",
+    "blog/Java/Java 심화 - 1.md",
+    "blog/Java/Java 컬렉션 - 2.md",
+    "blog/Java/Java 컬렉션 - 1.md",
+    "blog/Java/Java 객체지향 프로그래밍 심화 - 3.md",
+    "blog/Java/Java 객체지향 프로그래밍 심화 - 2.md",
+    "blog/Java/Java 객체지향 프로그래밍 심화 - 1.md",
+    "blog/Java/Java 객체지향 프로그래밍 기초 - 2.md",
+    "blog/Java/Java 객체지향 프로그래밍 기초 - 1.md",
+    "blog/Java/Java 기초 - 5.md",
+    "blog/Java/Java 기초 - 4.md",
+    "blog/Java/Java 기초 - 3.md",
+    "blog/Java",
+    "blog/Project/QnA",
+    "blog/Project",
+    "Reference",
+    "blog/ETC",
+    "blog/Git",
+    "blog/Algorithm/Baekjoon",
+    "blog/Algorithm/개념",
+    "blog/Algorithm",
+    "blog/CS/데이터베이스"
+  ]
+}

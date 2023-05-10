@@ -1,0 +1,9 @@
+{
+  "attachmentFolderPath": "blog/blog_image",
+  "newFileLocation": "root",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "source",
+  "strictLineBreaks": false
+}

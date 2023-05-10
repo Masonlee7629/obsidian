@@ -1,0 +1,11 @@
+{
+  "app:open-settings": [],
+  "workspace:split-vertical": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": ","
+    }
+  ]
+}
