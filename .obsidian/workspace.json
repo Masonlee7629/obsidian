@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference/실무코드 2.md",
+                "file": "Reference/test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference/실무코드 2.md",
+                "file": "Reference/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference/실무코드 2.md",
+                "file": "Reference/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference/실무코드 2.md"
+                "file": "Reference/test.md"
               }
             }
           },
@@ -166,14 +166,14 @@
   },
   "active": "625bcc8e64b5f203",
   "lastOpenFiles": [
-    "Reference/실무코드 1.md",
     "Reference/실무코드 2.md",
+    "Reference/test.md",
+    "Reference/실무코드 1.md",
     "Reference/러닝데이 강연.md",
     "Reference/Reference 링크 모음.md",
     "Reference",
     "새 폴더",
     "새 텍스트 문서.txt",
-    "Reference/실무코드 2.md",
     "blog/정보처리기사/애플리케이션 설계 5.md",
     "blog/정보처리기사/소프트웨어 종류 및 개발 방법론 7.md",
     "blog/정보처리기사/데이터 입출력 구현 3.md",
