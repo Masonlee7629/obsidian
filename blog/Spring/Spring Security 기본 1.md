@@ -1,5 +1,5 @@
 태그: #Spring 
-연결문서: [Spring MVC - 애플리케이션 빌드, 실행, 배포](Spring%20MVC%20-%20애플리케이션%20빌드,%20실행,%20배포.md)
+연결문서: [Spring Security 기본 2](Spring%20Security%20기본%202.md)
 
 # Spring Security
 ## Spring Security란?
